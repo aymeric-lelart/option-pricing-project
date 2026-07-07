@@ -16,6 +16,8 @@ This project implements a European option pricer using the Black-Scholes model, 
 - At-the-money Greeks summary table
 
 ## Outputs
+![Pricing](figure1_pricing.png)
+![Greeks Dashboard](figure2_greeks.png)
 
 ## Tools
 - Python (NumPy, SciPy, Matplotlib)
